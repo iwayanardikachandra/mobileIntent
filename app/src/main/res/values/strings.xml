@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txtNama">Nama:</string>
+    <string name="txtGender">Gender:</string>
+    <string name="radioPria">PRIA</string>
+    <string name="radioWanita">WANITA</string>
+    <string name="txtHobi">Hobi:</string>
+    <string name="checkCoding">Coding</string>
+    <string name="checkReading">Reading</string>
+    <string name="checkTravelling">Travelling</string>
+</resources>
