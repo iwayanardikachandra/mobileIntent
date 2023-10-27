@@ -159,20 +159,18 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/identitas"
+        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="173dp"
-        android:layout_marginTop="134dp"
+        android:layout_marginStart="172dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="181dp"
-        android:layout_marginBottom="155dp"
-        android:text="@string/identitas"
-        android:textSize="20dp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="18dp"
+        android:text="I Wayan Ardika Chandra (202131009)"
+        app:layout_constraintBottom_toTopOf="@+id/inputNama"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/checkTravelling" />
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
